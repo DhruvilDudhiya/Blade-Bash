@@ -1,0 +1,481 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/targets/omlet/1.png",
+                "type": "image",
+                "key": "1"
+            },
+            {
+                "url": "assets/targets/omlet/2.png",
+                "type": "image",
+                "key": "2"
+            },
+            {
+                "url": "assets/targets/omlet/3.png",
+                "type": "image",
+                "key": "3"
+            },
+            {
+                "url": "assets/targets/omlet/4.png",
+                "type": "image",
+                "key": "4"
+            },
+            {
+                "url": "assets/background.png",
+                "type": "image",
+                "key": "background"
+            },
+            {
+                "url": "assets/SplaceScreen/Bash-.png",
+                "type": "image",
+                "key": "Bash-"
+            },
+            {
+                "url": "assets/SplaceScreen/blade-.png",
+                "type": "image",
+                "key": "blade-"
+            },
+            {
+                "url": "assets/SplaceScreen/blade-with-cuts.png",
+                "type": "image",
+                "key": "blade-with-cuts"
+            },
+            {
+                "url": "assets/slicing/broke_slice.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 32,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "broke_slice"
+            },
+            {
+                "url": "assets/targets/Burger/burger1.png",
+                "type": "image",
+                "key": "burger1"
+            },
+            {
+                "url": "assets/targets/Burger/burger2.png",
+                "type": "image",
+                "key": "burger2"
+            },
+            {
+                "url": "assets/targets/Burger/burger3.png",
+                "type": "image",
+                "key": "burger3"
+            },
+            {
+                "url": "assets/targets/Burger/burger4.png",
+                "type": "image",
+                "key": "burger4"
+            },
+            {
+                "url": "assets/targets/cake/cake1.png",
+                "type": "image",
+                "key": "cake1"
+            },
+            {
+                "url": "assets/targets/cake/cake2.png",
+                "type": "image",
+                "key": "cake2"
+            },
+            {
+                "url": "assets/targets/cake/cake3.png",
+                "type": "image",
+                "key": "cake3"
+            },
+            {
+                "url": "assets/targets/cake/cake4.png",
+                "type": "image",
+                "key": "cake4"
+            },
+            {
+                "url": "assets/slicing/capsicum.png",
+                "frameConfig": {
+                    "frameWidth": 69,
+                    "frameHeight": 96,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "capsicum"
+            },
+            {
+                "url": "assets/slicing/choco.png",
+                "frameConfig": {
+                    "frameWidth": 69,
+                    "frameHeight": 96,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "choco"
+            },
+            {
+                "url": "assets/result screen /congratulation.png",
+                "type": "image",
+                "key": "congratulation"
+            },
+            {
+                "url": "assets/slicing/cUT.png",
+                "frameConfig": {
+                    "frameWidth": 60,
+                    "frameHeight": 80,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "cUT"
+            },
+            {
+                "url": "assets/targets/donut/donut1.png",
+                "type": "image",
+                "key": "donut1"
+            },
+            {
+                "url": "assets/targets/donut/donut2.png",
+                "type": "image",
+                "key": "donut2"
+            },
+            {
+                "url": "assets/targets/donut/donut3.png",
+                "type": "image",
+                "key": "donut3"
+            },
+            {
+                "url": "assets/targets/donut/donut4.png",
+                "type": "image",
+                "key": "donut4"
+            },
+            {
+                "url": "assets/result screen /failed-.png",
+                "type": "image",
+                "key": "failed-"
+            },
+            {
+                "url": "src/scripts/GameManager.js",
+                "type": "script",
+                "key": "GameManager"
+            },
+            {
+                "url": "assets/result screen /home.png",
+                "type": "image",
+                "key": "home"
+            },
+            {
+                "url": "assets/targets/jalebi/jalebi1.png",
+                "type": "image",
+                "key": "jalebi1"
+            },
+            {
+                "url": "assets/targets/jalebi/jalebi2.png",
+                "type": "image",
+                "key": "jalebi2"
+            },
+            {
+                "url": "assets/targets/jalebi/jalebi3.png",
+                "type": "image",
+                "key": "jalebi3"
+            },
+            {
+                "url": "assets/targets/jalebi/jalebi4.png",
+                "type": "image",
+                "key": "jalebi4"
+            },
+            {
+                "url": "assets/knife/knife_1.png",
+                "type": "image",
+                "key": "knife_1"
+            },
+            {
+                "url": "assets/knife/knife_2.png",
+                "type": "image",
+                "key": "knife_2"
+            },
+            {
+                "url": "assets/knife/knife_3.png",
+                "type": "image",
+                "key": "knife_3"
+            },
+            {
+                "url": "assets/knife/knife_4.png",
+                "type": "image",
+                "key": "knife_4"
+            },
+            {
+                "url": "assets/SplaceScreen/knife-.png",
+                "type": "image",
+                "key": "knife-"
+            },
+            {
+                "url": "assets/gamePlay/knifeObj.png",
+                "type": "image",
+                "key": "knifeObj"
+            },
+            {
+                "url": "assets/targets/noodles/noodles1.png",
+                "type": "image",
+                "key": "noodles1"
+            },
+            {
+                "url": "assets/targets/noodles/noodles2.png",
+                "type": "image",
+                "key": "noodles2"
+            },
+            {
+                "url": "assets/targets/noodles/noodles3.png",
+                "type": "image",
+                "key": "noodles3"
+            },
+            {
+                "url": "assets/targets/noodles/noodles4.png",
+                "type": "image",
+                "key": "noodles4"
+            },
+            {
+                "url": "assets/targets/omlet/omlate1.png",
+                "type": "image",
+                "key": "omlate1"
+            },
+            {
+                "url": "assets/targets/omlet/omlate2.png",
+                "type": "image",
+                "key": "omlate2"
+            },
+            {
+                "url": "assets/targets/omlet/omlate3.png",
+                "type": "image",
+                "key": "omlate3"
+            },
+            {
+                "url": "assets/targets/omlet/omlate4.png",
+                "type": "image",
+                "key": "omlate4"
+            },
+            {
+                "url": "assets/gamePlay/particles.png",
+                "type": "image",
+                "key": "particles"
+            },
+            {
+                "url": "assets/targets/pizza/pizza1.png",
+                "type": "image",
+                "key": "pizza1"
+            },
+            {
+                "url": "assets/targets/pizza/pizza2.png",
+                "type": "image",
+                "key": "pizza2"
+            },
+            {
+                "url": "assets/targets/pizza/pizza3.png",
+                "type": "image",
+                "key": "pizza3"
+            },
+            {
+                "url": "assets/targets/pizza/pizza4.png",
+                "type": "image",
+                "key": "pizza4"
+            },
+            {
+                "url": "assets/SplaceScreen/play-button.png",
+                "type": "image",
+                "key": "play-button"
+            },
+            {
+                "url": "assets/result screen /popup.png",
+                "type": "image",
+                "key": "popup"
+            },
+            {
+                "url": "assets/result screen /repeat-.png",
+                "type": "image",
+                "key": "repeat-"
+            },
+            {
+                "url": "assets/targets/samosa/samosa1.png",
+                "type": "image",
+                "key": "samosa1"
+            },
+            {
+                "url": "assets/targets/samosa/samosa2.png",
+                "type": "image",
+                "key": "samosa2"
+            },
+            {
+                "url": "assets/targets/samosa/samosa3.png",
+                "type": "image",
+                "key": "samosa3"
+            },
+            {
+                "url": "assets/targets/samosa/samosa4.png",
+                "type": "image",
+                "key": "samosa4"
+            },
+            {
+                "url": "assets/targets/sandwich/sandwich1.png",
+                "type": "image",
+                "key": "sandwich1"
+            },
+            {
+                "url": "assets/targets/sandwich/sandwich2.png",
+                "type": "image",
+                "key": "sandwich2"
+            },
+            {
+                "url": "assets/targets/sandwich/sandwich3.png",
+                "type": "image",
+                "key": "sandwich3"
+            },
+            {
+                "url": "assets/targets/sandwich/sandwich4.png",
+                "type": "image",
+                "key": "sandwich4"
+            },
+            {
+                "url": "assets/result screen /Score.png",
+                "type": "image",
+                "key": "Score"
+            },
+            {
+                "url": "assets/knife/spoon.png",
+                "type": "image",
+                "key": "spoon"
+            },
+            {
+                "url": "assets/result screen /Stage-.png",
+                "type": "image",
+                "key": "Stage-"
+            },
+            {
+                "url": "assets/gamePlay/stage-and-score-.png",
+                "type": "image",
+                "key": "stage-and-score-"
+            },
+            {
+                "url": "assets/slicing/strawberry.png",
+                "frameConfig": {
+                    "frameWidth": 69,
+                    "frameHeight": 96,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "strawberry"
+            },
+            {
+                "url": "assets/targets/target1.png",
+                "type": "image",
+                "key": "target1"
+            },
+            {
+                "url": "assets/targets/target10.png",
+                "type": "image",
+                "key": "target10"
+            },
+            {
+                "url": "assets/targets/target2.png",
+                "type": "image",
+                "key": "target2"
+            },
+            {
+                "url": "assets/targets/target3.png",
+                "type": "image",
+                "key": "target3"
+            },
+            {
+                "url": "assets/targets/target4.png",
+                "type": "image",
+                "key": "target4"
+            },
+            {
+                "url": "assets/targets/target5.png",
+                "type": "image",
+                "key": "target5"
+            },
+            {
+                "url": "assets/targets/target6.png",
+                "type": "image",
+                "key": "target6"
+            },
+            {
+                "url": "assets/targets/target7.png",
+                "type": "image",
+                "key": "target7"
+            },
+            {
+                "url": "assets/targets/target8.png",
+                "type": "image",
+                "key": "target8"
+            },
+            {
+                "url": "assets/targets/target9.png",
+                "type": "image",
+                "key": "target9"
+            },
+            {
+                "url": "assets/slicing/tomato.png",
+                "frameConfig": {
+                    "frameWidth": 69,
+                    "frameHeight": 96,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "tomato"
+            },
+            {
+                "url": "assets/targets/waffle/waffle1.png",
+                "type": "image",
+                "key": "waffle1"
+            },
+            {
+                "url": "assets/targets/waffle/waffle2.png",
+                "type": "image",
+                "key": "waffle2"
+            },
+            {
+                "url": "assets/targets/waffle/waffle3.png",
+                "type": "image",
+                "key": "waffle3"
+            },
+            {
+                "url": "assets/targets/waffle/waffle4.png",
+                "type": "image",
+                "key": "waffle4"
+            },
+            {
+                "url": "assets/slicing/white-cut-1.png",
+                "type": "image",
+                "key": "white-cut-1"
+            },
+            {
+                "url": "assets/slicing/white-cut-2.png",
+                "type": "image",
+                "key": "white-cut-2"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

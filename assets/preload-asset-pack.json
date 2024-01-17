@@ -1,0 +1,43 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/SplaceScreen/Bash-logo.png",
+                "type": "image",
+                "key": "Bash-logo"
+            },
+            {
+                "url": "assets/SplaceScreen/blade-logo.png",
+                "type": "image",
+                "key": "blade-logo"
+            },
+            {
+                "url": "assets/SplaceScreen/blade-with-cuts-logo.png",
+                "type": "image",
+                "key": "blade-with-cuts-logo"
+            },
+            {
+                "url": "assets/SplaceScreen/knife-logo.png",
+                "type": "image",
+                "key": "knife-logo"
+            },
+            {
+                "url": "assets/SplaceScreen/loading.png",
+                "type": "image",
+                "key": "loading"
+            },
+            {
+                "url": "assets/SplaceScreen/loading-bar-.png",
+                "type": "image",
+                "key": "loading-bar-"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

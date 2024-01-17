@@ -1,0 +1,56 @@
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	
+	<title>Blade Bash</title>
+
+	<script src="lib/phaser.min.js"></script>
+	<script src="src/components/UserComponent.js"></script>
+	<script src="src/components/PushOnClick.js"></script>
+	<script src="src/components/PreloadText.js"></script>
+	<link rel="icon" type="image/x-icon" href="assets/fevicon.ico">
+	<script src="src/scenes/Preload.js"></script>
+	<script src="src/scenes/Level.js"></script>
+	<script src="src/scenes/Splace.js"></script>
+	<script src="src/scenes/Result.js"></script>
+	<script src="src/main.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/tsparticles-confetti@2.12.0/tsparticles.confetti.bundle.min.js"></script>
+	<link rel="stylesheet preload" as="font" href="assets/font/CarterOne-Regular.ttf" type="font/ttf" crossorigin />
+
+	<style>
+		@font-face {
+			font-family: 'Courier';
+			src: url('assets/font/CarterOne-Regular.ttf');
+		}
+		body {
+			background-image: url(assets/background.png);
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center center;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+		}
+		.overlay { position:fixed; top:0; left:0; width:100vw; height:100vh; }
+		.overlay:after { position:absolute; top:0; left:calc(50% + 249px); background:rgba(0, 0, 0, 0.3); content:''; width:50vw; height:100vh  }
+		.overlay:before { position:absolute; top:0; right:calc(50% + 249px); background:rgba(0, 0, 0, 0.3); content:''; width:50vw; height:100vh  }
+		canvas { position:relative; z-index:999; }
+	</style>
+
+</head>
+
+<body>
+	<div class="overlay"></div>
+	<script>
+		var game;
+		var score = 0;
+		var bestScore = 0;
+		var stage = 1;
+		var collectedObject = 0;
+	 </script>
+</body>
+
+</html>

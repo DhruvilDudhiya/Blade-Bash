@@ -1,0 +1,99 @@
+{
+    "id": "eadf8636-c8aa-4d5d-af87-130da379fd2c",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Splace",
+        "borderWidth": 1080,
+        "borderHeight": 1920
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "2aca9dba-2c2b-4bfc-ae39-dccdf6811f77",
+            "label": "play_button",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "play-button"
+            },
+            "x": 540,
+            "y": 1410,
+            "scaleX": 2,
+            "scaleY": 2
+        },
+        {
+            "type": "Container",
+            "id": "302528b3-6818-44f4-90b4-b24b15a91f1a",
+            "label": "container_logo",
+            "scope": "CLASS",
+            "components": [],
+            "x": 537.5429542941627,
+            "y": 281.57011891598995,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "191369b4-f7b4-4dd9-88c4-f3425fbef415",
+                    "label": "bash_",
+                    "components": [],
+                    "texture": {
+                        "key": "Bash-"
+                    },
+                    "x": 2.457045705837345,
+                    "y": 246.42988108401005,
+                    "scaleX": 1.5,
+                    "scaleY": 1.5
+                },
+                {
+                    "type": "Image",
+                    "id": "e86a9407-245e-4031-a94e-27c71af6105d",
+                    "label": "knife_img",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "knife-"
+                    },
+                    "x": -182.54295429416266,
+                    "y": -415.57011891598995
+                },
+                {
+                    "type": "Image",
+                    "id": "6b5b944b-fa2f-4ca6-a3b7-bfbec0911617",
+                    "label": "blade_with_cuts",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "blade-with-cuts"
+                    },
+                    "x": 2.457045705837345,
+                    "y": 38.42988108401005,
+                    "scaleX": 1.5,
+                    "scaleY": 1.5,
+                    "visible": false
+                },
+                {
+                    "type": "Image",
+                    "id": "12827b34-a76f-41bb-8e96-2c0e48c93c60",
+                    "label": "blade_text",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "blade-"
+                    },
+                    "x": 2.457045705837345,
+                    "y": 38.42988108401005,
+                    "scaleX": 1.5,
+                    "scaleY": 1.5
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

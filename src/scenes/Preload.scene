@@ -1,0 +1,73 @@
+{
+    "id": "04331fb6-ed91-4d74-b6e9-4bfe0fcfb457",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadMethodName": "editorPreload",
+        "preloadPackFiles": [
+            "starter-template-basic-typescript/assets/asset-pack.json"
+        ],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Preload",
+        "borderWidth": 1080,
+        "borderHeight": 1920
+    },
+    "displayList": [
+        {
+            "type": "Text",
+            "id": "2ce42443-5227-4c9b-b498-e81f9a21cde3",
+            "label": "progress",
+            "scope": "CLASS",
+            "components": [],
+            "x": 540,
+            "y": 1696,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "Loading",
+            "fontSize": "40px"
+        },
+        {
+            "type": "Image",
+            "id": "6b5887e3-2dbe-4cda-8805-0d5911889143",
+            "label": "bash_logo",
+            "components": [],
+            "texture": {
+                "key": "Bash-logo"
+            },
+            "x": 540,
+            "y": 528,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        },
+        {
+            "type": "Image",
+            "id": "7801da09-c493-48e8-af8d-ac89d9c66f56",
+            "label": "blade_with_cuts_logo",
+            "components": [],
+            "texture": {
+                "key": "blade-with-cuts-logo"
+            },
+            "x": 540,
+            "y": 320,
+            "scaleX": 1.5,
+            "scaleY": 1.5
+        },
+        {
+            "type": "Image",
+            "id": "1387f023-4445-4150-9698-30f38a5c27fe",
+            "label": "knife_logo",
+            "components": [],
+            "texture": {
+                "key": "knife-logo"
+            },
+            "x": 487,
+            "y": 175
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}
